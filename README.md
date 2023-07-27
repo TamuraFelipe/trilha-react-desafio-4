@@ -1,46 +1,24 @@
-# Getting Started with Create React App
+# Trilha React - Desafio 04
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositório contém o código do Desafio 04 da trilha de React da formação React da DIO.me. O objetivo deste desafio foi fortalecer os conhecimentos com React Hook Form e validação de campos de input com Yup.
 
-## Available Scripts
+## Sobre o Desafio
 
-In the project directory, you can run:
+O Desafio 04 proporcionou a oportunidade de praticar o uso do React Hook Form, uma biblioteca de gerenciamento de formulários no React, e também a validação de campos de input utilizando o Yup, que é uma biblioteca de validação de esquemas JavaScript.
 
-### `npm start`
+## Instruções
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Para testar o projeto, siga os passos abaixo:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Clone este repositório em sua máquina local.
+2. Navegue até a pasta do projeto em seu terminal.
+3. Instale as dependências utilizando o gerenciador de pacotes de sua preferência (npm ou yarn).
+4. Execute o projeto localmente com o comando adequado.
+5. Interaja com o aplicativo e verifique a funcionalidade de validação dos campos de input.
 
-### `npm test`
+## Recursos utilizados
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- React Hook Form
+- Yup
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
